@@ -16,7 +16,7 @@ And these are the documentations between them
 ## Disclaimer
 
 If you want to play with this project what I mean is you want to learn about how this actually
-works you may proceed to get a copy of yours and then to run this webpage
+works you may proceed to get a copy of yours and then to run this project
 
 Just `npm install` or `yarn add`
 

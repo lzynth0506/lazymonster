@@ -4,7 +4,7 @@ export default function Footer() {
     return (
         <footer className="text-center">
             <div id="first" className="bg-red-600 p-5">
-                <Link href="/">
+                <Link href="https://github.com/lzynth0506/lazymonster">
                         <a className="text-white sm:text-sm md:text-lg lg:text-base uppercase
                         underline underline-offset-8">
                         This project is open-source you can actually view this in my github
