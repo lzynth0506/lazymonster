@@ -1,0 +1,18 @@
+export const FinalData = [
+    {
+        id: "000010",
+        thirdMsg: `After knowing who I am in the simple characteristics of my life, the people
+        who tend to read this will know that I am not a developer I am a problem-solver because
+        one of the major jobs of being a programmer is to find solutions for people. that's why
+        they develop many things to contribute as well for the modern world as usual they 
+        compose their own ideas to solve every problems, not only for individuals and also
+        for the environment,society and etc.`,
+    },
+    {
+        id: "000011",
+        fourthMsg: `And also you didn't became a programmer just to sort up the possible number
+        of your salaries its still about our discipline. If you really do your part, whether you
+        inherited a lot of negative traits from others you'll still successful. After all of the
+        achievements have you got you should become a shiftless now and live happy.`
+    }
+]
