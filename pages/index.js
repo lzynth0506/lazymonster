@@ -11,7 +11,23 @@ export default function Home() {
   return (
     <>
       <Head>
-        <meta name="description" content="This is my webapp made in NextJS and TailwindCSS" />
+        {/* Open Graph on Facebook */}
+        <meta property="og:url" content="https://lazymonster.vercel.app/" />
+        <meta property="og:type" content="Personal portfolio" />
+        <meta property="og:title" content="lazymonster" />
+        <meta property="og:description" content="This is my unofficial portfolio" />
+        <meta property="og:image" content="https://bit.ly/3JIEYAz" />
+
+        {/* Twitter Card */}
+        <meta name="twitter:card" content="summary_large_image" />
+        <meta property="twitter:domain" content="lazymonster.vercel.app" />
+        <meta property="twitter:url" content="https://lazymonster.vercel.app/" />
+        <meta name="twitter:title" content="lazymonster" />
+        <meta name="twitter:description" content="This is my unofficial portfolio" />
+        <meta name="twitter:image" content="https://bit.ly/3JIEYAz" />
+
+        {/* Normal Meta Tag */}
+        <meta name="description" content="This is my unofficial portfolio" />
         <title>lazymonster</title>
       </Head>
       <Navbar />
