@@ -1,5 +1,7 @@
 # Hey yoww!
 
+<img src="/assets/branding.jpg" width="100%" height="100%" alt="Branding for my unofficial portfolio" />
+
 This is my unofficial portfolio just for my school purposes anyway shoutout to all PHINMA IT
 students outthere this thing can help to understand little bit syntax for this matter.
 
@@ -11,7 +13,7 @@ Anyway these are my two tech-stacks that I used:
 And these are the documentations between them
 
 - <a href="https://nextjs.org/docs/getting-started" target="_blank">NextJS Docs</a>
-- <a href="https://tailwindcss.com/docs/installation" target="_blank">TailWind Docs</a>
+- <a href="https://tailwindcss.com/docs/installation" target="_blank">Tailwind Docs</a>
 
 ## Disclaimer
 
