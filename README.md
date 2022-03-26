@@ -1,6 +1,6 @@
 # Hey yoww!
 
-<img src="/assets/branding.jpg" width="100%" height="100%" alt="Branding for my unofficial portfolio" />
+<img src="./public/assets/branding.jpg" width="100%" height="100%" alt="Branding for my unofficial portfolio" />
 
 This is my unofficial portfolio just for my school purposes anyway shoutout to all PHINMA IT
 students outthere this thing can help to understand little bit syntax for this matter.
