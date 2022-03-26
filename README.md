@@ -1,6 +1,6 @@
-# Hey yoww!
-
 <img src="./public/assets/brands.jpg" width="100%" height="100%" alt="Branding for my unofficial portfolio" />
+
+# Hey yoww!
 
 This is my unofficial portfolio just for my school purposes anyway shoutout to all PHINMA IT
 students outthere this thing can help to understand little bit syntax for this matter.
