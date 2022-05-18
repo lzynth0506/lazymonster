@@ -2,7 +2,7 @@
 
 # Hey yoww!
 
-This is my unofficial portfolio just for nonsense purposes anyway
+This is my unofficial portfolio just for nonsense purposes............
 
 Anyway these are my two tech-stacks that I used:
 
