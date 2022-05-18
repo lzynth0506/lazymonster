@@ -2,8 +2,7 @@
 
 # Hey yoww!
 
-This is my unofficial portfolio just for my school purposes anyway shoutout to all PHINMA IT
-students outthere this thing can help to understand little bit syntax for this matter.
+This is my unofficial portfolio just for nonsense purposes anyway
 
 Anyway these are my two tech-stacks that I used:
 
