@@ -1,4 +1,4 @@
-import Quote from "../pages/api/IntroData";
+import { Quote } from "../pages/api/IntroData";
 
 export default function Intro() {
     return (
