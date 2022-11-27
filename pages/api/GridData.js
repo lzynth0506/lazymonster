@@ -1,4 +1,4 @@
-const GridData = [
+export const GridData = [
     {
         id: "000003",
         path: "/assets/illustration1.svg",
@@ -24,5 +24,3 @@ const GridData = [
         title: "Rigmarole",
     },
 ]
-
-export default GridData;
