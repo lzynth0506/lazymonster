@@ -1,15 +1,6 @@
-/* 
-    sm=640 md = 768px lg=1024
-    Default: p-6
-    sm:px-12
-    md:px-14 
-    lg:px-16
-    Color: text-red-500
-*/
-
 import Image from "next/image";
 import Link from "next/link";
-import GridData from "../pages/api/GridData";
+import { GridData } from "../pages/api/GridData";
 
 export default function Grid() {
     return (
