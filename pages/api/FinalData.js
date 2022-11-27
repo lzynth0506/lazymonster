@@ -5,14 +5,13 @@ export const FinalData = [
         who tend to read this will know that I am not a developer I am a problem-solver because
         one of the major jobs of being a programmer is to find solutions for people. that's why
         they develop many things to contribute as well for the modern world as usual they 
-        compose their own ideas to solve every problems, not only for individuals and also
-        for the environment,society and etc.`,
+        compose their own ideas to solve every problems.`,
     },
     {
         id: "000011",
-        fourthMsg: `And also you didn't became a programmer just to sort up the possible number
-        of your salaries its still about our discipline. If you really do your part, whether you
-        inherited a lot of negative traits from others you'll still successful. After all of the
-        achievements have you got you should become a shiftless now and live happy.`
+        fourthMsg: `And also, I didn't become a coder just to sort up my number.
+        of salaries that I've made. However, it's still about our discipline. If you really do your part,
+        You will be successful even if you inherited a lot of negative traits from others.After all
+        I just want to live normally and have a better life.`
     }
 ]
