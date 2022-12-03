@@ -4,7 +4,7 @@ export const Quote = [
     {   
         id: "000001",
         firstMsg: `I'm Kenneth Obsequio, currently a freshman student at Quezon City University.
-        I've been studying website development for four years, beginning in 2017.
+        I've been studying to understand digital world for four years, beginning in 2018.
         Someone told me to explore everything about the digital world, so my Grade 8 TLE teacher advised
         us on where we should go. She demonstrates how to make a decision to choose a typical field.
         that part of the digital world.`
