@@ -14,9 +14,8 @@ export const Quote = [
         secondMsg: `After thinking, we made a decision to choose our career field, including paths.
         So I choose website development, and thus my professional journey begins:studying
         Sorting things out is difficult, and you need a method to understand every concept from start to finish.
-        programming, including problem-solving and understanding the fundamentals of your preferred programming language.
-        programming language, how to deploy your project, and so on; So in those particular scenarios
-        You will understand how frustrating this is.On the other hand, you should be able to
-        Understand everything fundamentally and logically.`
+        programming, including problem-solving and understanding the fundamentals of your preferred programming language, 
+        how to deploy your project, and so on; So in those particular scenarios You will understand how frustrating 
+        this is.On the other hand, you should be able to understand everything fundamentally and logically.`
     }
 ]
