@@ -16,7 +16,7 @@ export default function Home() {
         <meta property="og:type" content="Personal portfolio" />
         <meta property="og:title" content="lazymonster" />
         <meta property="og:description" content="This is my unofficial portfolio" />
-        <meta property="og:image" content="https://bit.ly/3JIEYAz" />
+        <meta property="og:image" content="/assets/rose_by_joarosa.jpg" />
 
         {/* Twitter Card */}
         <meta name="twitter:card" content="summary_large_image" />
@@ -24,7 +24,7 @@ export default function Home() {
         <meta property="twitter:url" content="https://lazymonster.vercel.app/" />
         <meta name="twitter:title" content="lazymonster" />
         <meta name="twitter:description" content="This is my unofficial portfolio" />
-        <meta name="twitter:image" content="https://bit.ly/3JIEYAz" />
+        <meta name="twitter:image" content="/assets/rose_by_joarosa.jpg" />
 
         {/* Normal Meta Tag */}
         <meta name="description" content="This is my unofficial portfolio" />
