@@ -3,9 +3,9 @@ import Navbar from '../components/Navbar'
 import Hero from '../components/Hero'
 import Intro from '../components/Intro'
 import Grid from '../components/Grid'
-import Music from '../components/Music'
 import Final from '../components/Final'
 import Footer from '../components/Footer'
+import { Notice } from '../components/Notice'
 
 export default function Home() {
   return (
@@ -30,11 +30,11 @@ export default function Home() {
         <meta name="description" content="This is my unofficial portfolio" />
         <title>lazymonster</title>
       </Head>
+      <Notice />
       <Navbar />
       <Hero />
       <Intro />
       <Grid />
-      <Music />
       <Final />
       <Footer />
     </>
